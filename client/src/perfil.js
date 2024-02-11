@@ -3,7 +3,7 @@ import './perfil.css';
         <div> 
             <header id='cabecera'> 
                 <h1>{usuario.nombre}</h1> 
-                <img id='foto1' src=''></img> 
+                <img id='foto1' src='fotos/cristiano.jpg'></img> 
             </header> 
             <div> 
                 <section> 
